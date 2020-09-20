@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on [MineHun || www.minehunhu](http://)
+- 🔭 I’m currently working on [MineHun || www.minehunhu](https://github.com/MINEHUN-hu)
 - 🌱 I'm Hungarian but I can speak English.
 - 🤔 I maybe have autism sometimes...
 - 💬 Ask me about Java || JavaScript || HTML || CSS

@@ -1,12 +1,13 @@
-### Hi there 👋
-
+<h1 align="center">Hi 👋, I'm Danika6677</h1>
+<p align="center">
 - 🔭 I’m currently working on [MineHun || www.minehun.hu](https://github.com/MINEHUN-hu)
 - 🌱 I'm Hungarian but I can speak English.
 - 🤔 I maybe have autism sometimes...
 - 💬 Ask me about Java || JavaScript || HTML || CSS
 - 📫 Reach me on Discord: Danika6677#1295
+</p>
 
-## Tools that I use
+<h1 align="center"> Tools that I use </h1>
 
 <p align="center">
 <a href= "https://www.jetbrains.com/idea/"><img width="25" height="25" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/IntelliJ_IDEA_Logo.svg"/></a>

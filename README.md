@@ -15,7 +15,3 @@
 <a href= "https://github.com"><img width="25" height="25" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg"/></a>
 </p>
 
-<h1 align="center"> Stats </h1>
-
-<iframe href="https://github-readme-stats.vercel.app/api?username=danika6677&show_icons=true&hide_border=true&theme=vue-dark&count_private=true" align="center"></iframe>
-<iframe src="https://discordapp.com/widget?id=748213314290581526&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>

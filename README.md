@@ -13,9 +13,11 @@
 <a href= "https://www.jetbrains.com/idea/"><img width="25" height="25" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/IntelliJ_IDEA_Logo.svg"/></a>
 <a href= "https://code.visualstudio.com/"><img width="25" height="25" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/visualstudiocode.svg"/></a>
 <a href= "https://github.com"><img width="25" height="25" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg"/></a>
-
+</p>
 
 <h1 align="center"> Programming Languagues </h1>
+
+<p align="center">
 <a href= "https://github.com"><img width="25" height="25" src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg"/></a>
 <a href= "https://github.com"><img width="25" height="25" src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg"/></a>
 <a href= "https://github.com"><img width="25" height="25" src="https://devicons.github.io/devicon/devicon.git/icons/java/java-original-wordmark.svg"/></a>

@@ -18,8 +18,9 @@
 <h1 align="center"> Programming Languagues </h1>
 
 <p align="center">
-<a href= "https://github.com"><img width="25" height="25" src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg"/></a>
-<a href= "https://github.com"><img width="25" height="25" src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg"/></a>
-<a href= "https://github.com"><img width="25" height="25" src="https://devicons.github.io/devicon/devicon.git/icons/java/java-original-wordmark.svg"/></a>
-<a href= "https://github.com"><img width="25" height="25" src="https://devicons.github.io/devicon/devicon.git/icons/php/php-original.svg"/></a>
+<a><img width="40" height="40" src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg"/></a>
+<a href= "https://html.spec.whatwg.org/"><img width="40" height="40" src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg"/></a>
+<a href= "https://www.java.com"><img width="40" height="40" src="https://devicons.github.io/devicon/devicon.git/icons/java/java-original-wordmark.svg"/></a>
+<a href= "https://www.php.net/"><img width="40" height="40" src="https://devicons.github.io/devicon/devicon.git/icons/php/php-original.svg"/></a>
+<a href= "https://www.javascript.com/"><img width="40" height="40" src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg">
 </p>

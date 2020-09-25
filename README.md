@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Danika6677</h1>
 <p align="center">
  🔭 I’m currently working on <a href="www.minehun.hu">MineHun || www.minehun.hu</a><a href="github.com/MINEHUN-hu"> (GitHub Organization)</a><br>
- 🌱 I'm Hungarian but I can speak English.<br>
+ <a href="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Flag_of_Hungary.svg"> I'm Hungarian but I can speak English.</a><br>
  🤔 I maybe have autism sometimes...<br>
  💬 Ask me about Java || JavaScript || HTML || CSS<br>
  📫 Reach me on Discord: Danika6677#1295<br>

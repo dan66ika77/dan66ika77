@@ -24,3 +24,7 @@
 <a href= "https://www.php.net/"><img width="40" height="40" src="https://devicons.github.io/devicon/devicon.git/icons/php/php-original.svg"/></a>
 <a href= "https://www.javascript.com/"><img width="40" height="40" src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg">
 </p>
+ 
+## Stats
+ 
+![Github Stats](https://github-readme-stats.vercel.app/api?username=danika6677&show_icons=true&hide_border=true&theme=vue-dark)

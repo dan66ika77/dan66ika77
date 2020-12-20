@@ -4,7 +4,7 @@
  🇭🇺 I'm Hungarian but I can speak English. 🇬🇧<br>
  🤔 I maybe have autism sometimes...<br>
  💬 Ask me about Java || JavaScript || HTML || CSS<br>
- 📫 Reach me on Discord: Danika6677#1295<br>
+ 📫 Reach me on Discord: Danika#6677<br>
 </p>
 
 <h1 align="center"> Tools that I use </h1>

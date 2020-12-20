@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Danika6677</h1>
 <p align="center">
- 🔭 I’m currently working on <a href="http://www.minehun.hu">MineHun || www.minehun.hu</a> <a href="https://github.com/MINEHUN-hu">(GitHub Organization)</a><br>
+ 🔭 I’m currently workin in MinerLands.<br>
  🇭🇺 I'm Hungarian but I can speak English. 🇬🇧<br>
  🤔 I maybe have autism sometimes...<br>
  💬 Ask me about Java || JavaScript || HTML || CSS<br>

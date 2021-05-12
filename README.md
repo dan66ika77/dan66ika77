@@ -17,11 +17,9 @@
 <h1 align="center"> What I program in? </h1>
 
 <p align="center">
-<a href= "https://www.java.com"><img width="50" height="50" src="https://devicons.github.io/devicon/devicon.git/icons/java/java-original-wordmark.svg"/></a>
+ <a href= "https://www.java.com"><img width="50" height="50" src="https://devicons.github.io/devicon/devicon.git/icons/java/java-original-wordmark.svg"/></a>
 </p>
-
-Simple
  
 ## Stats
  
-<a><src="https://github-readme-stats.vercel.app/api?username=danika6677&show_icons=true&hide_border=true&theme=vue-dark"></a>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=danika6677&show_icons=true&hide_border=true&theme=vue-dark)

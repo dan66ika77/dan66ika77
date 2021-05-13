@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Danika6677</h1>
+<h1 align="center">Hi 👋, I'm Daniel</h1>
 <p align="center">
  🔭 I’m currently work at mdavid.hu.<br>
  🇭🇺 I'm Hungarian but I can speak English. 🇬🇧<br>

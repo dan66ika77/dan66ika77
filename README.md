@@ -8,4 +8,4 @@
  
 # Stats
  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=danika6677&show_icons=true&hide_border=true&theme=vue-dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=daniel&show_icons=true&hide_border=true&theme=vue-dark)

@@ -7,5 +7,6 @@
 </p>
  
 # Stats
- 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=daniel&show_icons=true&hide_border=true&theme=vue-dark)
+
+[![Danika6677's GitHub stats](https://github-readme-stats.vercel.app/api?username=Danika6677)](https://github.com/anuraghazra/github-readme-stats)
+

@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, Daniel</h1>
-<h3 align="center">I'm a loonely Hungarian xd</h3>
+<h3 align="center">I'm a lonely Hungarian xd</h3>
 
 
 - 🔗 Developing some projects

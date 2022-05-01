@@ -1,13 +1,13 @@
-<h1 align="center">Hi 👋, Daniel</h1>
+<h1 align="center">Hi 👋, my name is Daniel</h1>
 <h3 align="center">I'm a lonely Hungarian xd</h3>
 
 
 - 🔗 Developing some projects
 
-- 🌱 Learning **Java, **and i will learn something...
+- 🌱 Learning **HTML**, **CSS** and **JavaScript**
 
 - ⚙ Working on APIs & Cores of minecraft servers
-- 💬 Discord: **Danika#0439**
+- 💬 Discord: **Danika#6677**
 <h3 align="left">Languages and Tools:</h3>
  <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
 <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>

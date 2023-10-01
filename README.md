@@ -4,9 +4,9 @@
 
 - 🔗 Developing some projects
 
-- 🌱 Learning **HTML**, **CSS** and **JavaScript**
+- 🌱 Learning **C++**
 
-- ⚙ Working on APIs & Cores of minecraft servers
+- ⚙ Working on APIs & Cores for minecraft servers
 - 💬 Discord: **Danika#6677**
 <h3 align="left">Languages and Tools:</h3>
  <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>

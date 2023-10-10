@@ -5,8 +5,8 @@
 <!-- About Me Section -->
 - 🚀 Currently working on various coding projects
 - 🌱 Learning and mastering **C++**
-- ⚙ Developing APIs & Cores for Minecraft servers
-- 💬 Connect with me on Discord: **Danika#6677**
+- ⚙ Developing APIs & Cores
+- 💬 Connect with me on Discord: **dani.uwu**
 
 <!-- Skills Section -->
 <h3 align="left">Languages and Tools:</h3>
